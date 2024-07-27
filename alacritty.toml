@@ -16,7 +16,8 @@ bindings = [
   { key = "F11", action = "ToggleFullscreen" }, 
   { key = "K", mods = "Control | Shift", action = "ToggleViMode"},
   { key = "H", mods = "Control | Shift", action = "HideOtherApplications"},
-  { key = "L", mods = "Control | Shift", action = "CreateNewWindow"}
+  { key = "L", mods = "Control | Shift", action = "CreateNewWindow"},
+  { key = "T", mods = "Control | Shift", action = "ToggleMaximized"}
 ]
 
 [font]
